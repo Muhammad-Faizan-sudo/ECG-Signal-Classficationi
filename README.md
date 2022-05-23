@@ -18,7 +18,7 @@ Confusion matrix:
  [  1  34   0 149]]
 
 
-How to Run the inference the model
+How to Run the inference?
 1. create the virtual env
 2. pip install -r requirements.txt
 3. Change the path of img in inference.py
