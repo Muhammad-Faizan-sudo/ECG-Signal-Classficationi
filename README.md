@@ -6,16 +6,16 @@ Dataset can be downloaded from [here](https://drive.google.com/drive/folders/1iI
 
 model folder contains the trained model. It trained on the 1000 images per class. Due to less imbalance dataset, I apply the Data Augmentation on it.
 
-Model Metrics
-Accuracy: 0.910000
-Precision: 0.910000
-Recall: 0.910000
-F1 score: 0.910000
+Model Metrics<br />
+Accuracy: 0.910000<br />
+Precision: 0.910000<br />
+Recall: 0.910000<br />
+F1 score: 0.910000<br />
 Confusion matrix:
- [[204   5   0   0]
- [  1 181   0  31]
- [  0   0 194   0]
- [  1  34   0 149]]
+ [[204   5   0   0]<br />
+ [  1 181   0  31]<br />
+ [  0   0 194   0]<br />
+ [  1  34   0 149]]<br />
 
 
 How to Run the inference?
